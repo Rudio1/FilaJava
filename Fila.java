@@ -1,4 +1,4 @@
-//Aqui é aplicado o conceito de LISTA - First IN, First OUT
+//Aqui é aplicado o conceito de FILA - First IN Last OUT
 
 class Fila {
     int inicio;
