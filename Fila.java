@@ -42,7 +42,7 @@ class Fila {
     public void remover(){
         if(!this.estaVazia()){
             this.inicio++;
-            this.qtdElementos--;
+            this.qtdElementos++;
         }
     }
 
