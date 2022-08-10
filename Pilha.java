@@ -1,5 +1,5 @@
 public class Pilha {
-    //Aqui é aplicado o conceito de FILA - First IN Last OUT
+    //Aqui é aplicado o conceito de PILHA - First IN First OUT
     int inicio;
     int fim;
     int tamanho; 
